@@ -1,0 +1,9 @@
+File Name: /Users/liujiantong/Desktop/UCLA/2021 Winter 课本/Computing 10B/Week 5/HW3/HW3/JFMAbstract.txt
+Number of characters: 338
+Number of words: 46
+
+File Name: /Users/liujiantong/Desktop/UCLA/2021 Winter 课本/Computing 10B/Week 5/HW3/HW3/JFMAbstract.txt
+Number of characters: 338
+Number of words: 46
+
+The file named "/Users/liujiantong/Desktop/UCLA/2021 Winter 课本/Computing 10B/Week 5/HW3/HW3/JFMAbstract.txt" has the same number of lines as "/Users/liujiantong/Desktop/UCLA/2021 Winter 课本/Computing 10B/Week 5/HW3/HW3/JFMAbstract.txt". 
